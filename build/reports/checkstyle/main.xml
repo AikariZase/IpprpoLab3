@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.0">
+<file name="D:\!un\3\src\main\java\main\Main.java">
+<error line="11" column="5" severity="error" message="Пропущен Javadoc комментарий." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="D:\!un\3\src\main\java\model\LogEntry.java">
+<error line="8" column="5" severity="error" message="Пропущен Javadoc комментарий." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="D:\!un\3\src\main\java\model\Report.java">
+<error line="9" column="5" severity="error" message="Пропущен Javadoc комментарий." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="D:\!un\3\src\main\java\service\AnalyzerService.java">
+<error line="16" column="5" severity="error" message="Пропущен Javadoc комментарий." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="D:\!un\3\src\main\java\service\LogParser.java">
+<error line="9" column="5" severity="error" message="Пропущен Javadoc комментарий." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+</checkstyle>
